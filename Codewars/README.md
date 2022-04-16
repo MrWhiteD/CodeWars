@@ -1,1 +1,0 @@
-JavaScript tasks from codewars.com
